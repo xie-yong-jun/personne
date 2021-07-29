@@ -1,4 +1,5 @@
 import React, { Component, Fragment } from 'react'
+import "./about.scss"
 
 class About extends Component {
     constructor(props) {
