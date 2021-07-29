@@ -11,6 +11,7 @@ class Home extends Component {
         return (
             <Fragment>
                 Home
+                
             </Fragment>
         )
     }
