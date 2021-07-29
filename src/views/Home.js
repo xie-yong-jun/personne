@@ -10,7 +10,7 @@ class Home extends Component {
     render() {
         return (
             <Fragment>
-                Home
+                Home456
             </Fragment>
         )
     }
