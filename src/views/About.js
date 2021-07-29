@@ -11,6 +11,7 @@ class About extends Component {
         return (
             <Fragment>
                 About
+                
             </Fragment>
         )
     }
