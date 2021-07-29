@@ -1,0 +1,5 @@
+/* scss样式文件 */
+/* 1.引入配置文件 这样的话每个需要的scss文件都要引入 2.config配置文件 配置后就不需要引入了 4.md有具体步骤 */
+// @import '../style/sassConfig.scss'; 
+
+body {background-color: $color;}
